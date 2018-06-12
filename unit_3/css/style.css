@@ -1,3 +1,8 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
 body {
 	font-family: Helvetica, Arial, sans-serif;
 	color: #222222;
@@ -18,6 +23,11 @@ header {
 
 h1 {
 	font-family: 'Anton', sans-serif;
+	color: #444444;
+}
+
+#slogan {
+	font-style: italic;
 }
 
 a {
