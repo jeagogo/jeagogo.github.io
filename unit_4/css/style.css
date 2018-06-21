@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Open+Sans:400,700|Source+Serif+Pro:400,700');
+
+body {
+	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+	color: #222222;
+	line-height: 1.3;
+	background-image: url("http://jeagogo.github.io/unit_3/images/waves_pacifica.jpg");
+	background-size: cover;
+	width: 75%;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 10px;
+}
+
+header {
+	text-align: center;
+	display: block;
+	background-color: rgba(255,255,255,.35);
+	padding: 15px;
+}
+
+h1 {
+	font-family: 'Anton', sans-serif;
+	font-size: 3em;
+	color: #444444;
+}
+
+main {
+	display: block;
+	background-color: rgba(255,255,255,.35);
+	padding: 20px;
+	line-height: 1.5em;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+}
+
+ul {
+	padding-left: 30px;
+}
+
+#slogan {
+	font-family: 'Source Serif Pro', serif;
+	font-size: 1.2em;
+	text-align: center;
+}
+
+a {
+	color: #222222;
+	font-family: 'Source Serif Pro', serif;
+	font-weight: bold;
+	font-size: 1.2em;
+	text-decoration: none;
+	padding: 15px;
+}
+
+.center {
+	display: block;
+	text-align: center;
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+}
+
+hr { 
+    border: none;
+    height: 1.5px;
+    background-color: #222222;
+    margin: 1.2em auto;
+}
+
